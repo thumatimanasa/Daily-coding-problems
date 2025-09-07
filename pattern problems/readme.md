@@ -1,2 +1,2 @@
-Here you can see pattern problem 
+Here you can see pattern problems.
 To improve logic building by using nested loops
